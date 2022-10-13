@@ -1,0 +1,21 @@
+<!doctype html>
+<html lang="pt-br">
+<head>
+<meta charset="utf-8">
+<title>Criador do @</title>
+</head>
+<body bgcolor="teal">
+<hr>
+<h1> Ray Tomlinson foi um programador dos Estados Unidos que implementou um sistema de correio eletrônico na ARPANET, em 1971.</h1>
+
+<img src="foto1.jpg" alt="imagem numero1" width="200px" height="200px">
+
+<p>Ray era um funcionário da Bolt Beranek and Newman (BBN), empresa contratada pelo Departamento de Defesa dos Estados Unidos em 1968 para implantar a ARPANET.
+Em 1971, Tomlinson começou a enviar mensagens para si mesmo e para seus colegas como brincadeira. Ele somou as funcionalidades dos aplicativos SNDMSG (uma contração da expressão em inglês "send message", ou seja, "enviar mensagem") e o Readmail, para leitura de correio. Mas esse sistema permitia apenas o compartilhamento de textos. O engenheiro também trabalhava em um protocolo chamado CPYNET, para transferência de arquivos entre computadores conectados em rede. Ao juntar os dois programas, ele conseguiu enviar uma mensagem para seus colaboradores, anunciando sua criação.</p>
+<p>O conceito de correio eletrônico já existia e estava implementado em sistemas como o AUTODIN. Entretanto, esse foi o primeiro sistema capaz de enviar mensagens entre diferentes nós conectados à ARPANET. Tomlinson também inovou na medida em que escolheu o símbolo @ para distinguir as mensagens destinadas às caixas de correio na máquina local das que se dirigiam à rede, por ser o símbolo que significa "at", ou seja, estar em algum lugar. Logo enviou a si próprio uma mensagem de e-mail. A BBN tinha dois computadores PDP-10 ligados entre si através da ARPANET, e a mensagem viajou através da rede entre as duas máquinas na mesma sala, em Cambridge. Depois de se ter assegurado que o SNDMSG funcionava na rede, enviou uma mensagem aos seus colegas os avisando da nova funcionalidade, com instruções para colocar um @ entre o nome do utilizador e o do seu computador. O primeiro endereço de e-mail criado foi o tomlinson@bbn-tenexa.</p>
+<p>Em março de 1972, Ray Tomlinson escreveu o software básico de e-mail com as funções de enviar e ler, motivado pela necessidade dos desenvolvedores da ARPANET de ter um fácil mecanismo de coordenação. Dois anos mais tarde, um estudo indicava que 75% de todo o tráfego de dados na ARPANET usava esse novo sistema. Tomlinson continua, ao fim de todos estes anos, na BBN, tendo trabalhado em tudo desde protocolos de redes à construção de supercomputadores.</P>
+<P><strong>Tomlinson morreu em 5 de março de 2016, supostamente de ataque cardíaco.</strong></P>
+<i><mark>FONTE DA PESQUISA</mark></i> : <em>https://pt.wikipedia.org/wiki/Ray_Tomlinson</em>
+
+</body>
+</html>
